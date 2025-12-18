@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "恋の予感",
+  "base_artist": "Anzenchitai",
+  "createdAt": "2025-12-18T07:52:42.926540Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋の予感",
+      "artist": "Anzenchitai",
+      "has_synced": true,
+      "path": "select/01_恋の予感_Anzenchitai.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋の予感",
+      "artist": "Junko Ohashi",
+      "has_synced": true,
+      "path": "select/02_恋の予感_Junko_Ohashi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋の予感",
+      "artist": "中森明菜",
+      "has_synced": true,
+      "path": "select/03_恋の予感_中森明菜.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋の予感",
+      "artist": "Anzen Chitai",
+      "has_synced": true,
+      "path": "select/04_恋の予感_Anzen_Chitai.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋の予感",
+      "artist": "Suara",
+      "has_synced": true,
+      "path": "select/05_恋の予感_Suara.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋の予感",
+      "artist": "Anzenchitai",
+      "has_synced": true,
+      "path": "select/06_恋の予感_Anzenchitai.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋の予感",
+      "artist": "Ann Annie",
+      "has_synced": false,
+      "path": "select/07_恋の予感_Ann_Annie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "恋の予感",
+      "artist": "Annie, Ann",
+      "has_synced": false,
+      "path": "select/08_恋の予感_Annie,_Ann.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "恋の予感 - Koino Yokan",
+      "artist": "Anzenchitai",
+      "has_synced": true,
+      "path": "select/09_恋の予感_-_Koino_Yokan_Anzenchitai.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "恋の予感",
+      "artist": "miwa",
+      "has_synced": true,
+      "path": "select/10_恋の予感_miwa.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "恋の予感",
+      "artist": "大橋純子",
+      "has_synced": true,
+      "path": "select/11_恋の予感_大橋純子.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "恋の予感",
+      "artist": "Akina Nakamori",
+      "has_synced": false,
+      "path": "select/12_恋の予感_Akina_Nakamori.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "恋の予感 (2010ヴァージョン)",
+      "artist": "Anzenchitai",
+      "has_synced": false,
+      "path": "select/13_恋の予感_(2010ヴァージョン)_Anzenchitai.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋の予感",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_01_恋の予感_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "恋の予感",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_02_恋の予感_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "恋の予感",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_03_恋の予感_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "恋の予感",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_04_恋の予感_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "恋の予感",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_05_恋の予感_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "恋の予感",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_06_恋の予感_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "恋の予感",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_07_恋の予感_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "恋の予感",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_08_恋の予感_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "恋の予感",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_09_恋の予感_安全地帯.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "恋の予感",
+      "artist": "安全地帯",
+      "has_synced": false,
+      "path": "select/pl_10_恋の予感_安全地帯.txt"
+    }
+  ]
+}
